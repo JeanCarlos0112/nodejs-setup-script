@@ -30,7 +30,7 @@ Ensure your project follows this directory structure for the script to function 
 
 ```
 project-root
-├── setup-and-run.ps1
+├── setup.ps1
 ├── index.html
 ├── package.json
 ├── package-lock.json
@@ -50,7 +50,7 @@ project-root
 
 ### Saving the Script
 
-Place the script `setup-and-run.ps1` in the root directory of your project.
+Place the script `setup.ps1` in the root directory of your project.
 
 ### Executing the Script
 
@@ -58,7 +58,7 @@ Place the script `setup-and-run.ps1` in the root directory of your project.
 2. **Navegue até a raiz do seu projeto** onde o script está localizado.
 3. **Execute o script** usando o comando:
    ```powershell
-   .\setup-and-run.ps1
+   .\setup.ps1
    ```
 
 ### Script Execution Flow
@@ -124,7 +124,7 @@ Certifique-se de que seu projeto segue esta estrutura de diretórios para o scri
 
 ```
 raiz-do-projeto
-├── setup-and-run.ps1
+├── setup.ps1
 ├── index.html
 ├── package.json
 ├── package-lock.json
@@ -144,7 +144,7 @@ raiz-do-projeto
 
 ### Salvando o Script
 
-Coloque o script `setup-and-run.ps1` no diretório raiz do seu projeto.
+Coloque o script `setup.ps1` no diretório raiz do seu projeto.
 
 ### Executando o Script
 
@@ -152,7 +152,7 @@ Coloque o script `setup-and-run.ps1` no diretório raiz do seu projeto.
 2. **Navegue até a raiz do seu projeto** onde o script está localizado.
 3. **Execute o script** usando o comando:
    ```powershell
-   .\setup-and-run.ps1
+   .\setup.ps1
    ```
 
 ### Fluxo de Execução do Script
